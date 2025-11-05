@@ -8,7 +8,6 @@
   margin: 0 auto;
   padding: 92px 50px;
 }
-
 /* NAVIGATION */
 .header__menu {
   justify-self: start;
@@ -211,7 +210,7 @@
 
 .bet-button {
   border: 1px solid #ffffff;
-  min-width:256px; /* Фиксированная ширина по макету */
+  min-width: 256px; /* Фиксированная ширина по макету */
   min-height: 51px; /* Фиксированная высота по макету */
   background: transparent;
   color: #ffffff;
