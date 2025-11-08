@@ -179,8 +179,8 @@
 .aligned-text_right {
   text-align: right;
   align-self: flex-end;
-  width: 100%; 
-  margin-right: -3%; 
+  width: 100%;
+  margin-right: -3%;
 }
 
 .cover__description {
@@ -458,7 +458,7 @@
   gap: 0px;
   list-style: none;
   padding: 0;
-  margin-bottom: 0 ;
+  margin-bottom: 0;
 }
 
 .footer__menu-link {
