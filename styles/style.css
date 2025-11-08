@@ -179,8 +179,8 @@
 .aligned-text_right {
   text-align: right;
   align-self: flex-end;
-  width: 100%; /* увеличиваем ширину блока */
-  margin-right: -3%; /* компенсируем увеличение */
+  width: 100%; 
+  margin-right: -3%; 
 }
 
 .cover__description {
@@ -509,4 +509,3 @@
   max-width: 48px;
   max-height: 48px;
 }
-
